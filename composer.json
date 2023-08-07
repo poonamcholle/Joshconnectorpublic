@@ -1,4 +1,5 @@
 {
     "name": "mynamespace/my-custom-library",
-    "type": "library"
+    "type": "library",
+    "version":1
 }
