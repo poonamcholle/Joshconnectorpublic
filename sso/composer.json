@@ -16,7 +16,7 @@
     {
         "type":"package",
         "package": {
-          "name": "miniorange/mo-php-connector",
+          "name": "poonamcholle/Joshconnectorpublic",
           "version":"master",
           "source": {
               "url": "https://github.com/poonamcholle/Joshconnectorpublic.gi",
