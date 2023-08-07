@@ -12,14 +12,6 @@
   "require": {
     "php": ">=7.0"
   },
-  "autoload": {
-    "psr-4": {
-      "MiniOrange\\": "",
-      "MiniOrange\\classes\\": "classes/",
-      "MiniOrange\\src\\": "src/",
-      "MiniOrange\\helper\\": "helper/"
-    }
-  },
   "repositories": [
     {
       "type": "vcs",
